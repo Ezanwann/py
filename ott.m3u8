@@ -1,6 +1,4 @@
-#EXTM3U8 x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="V2.7 - 13/5/2024 | Update: Fixed AstroGO channels " vod_library="https://mantop.worst.workers.dev/index.html" #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U3tNDHMRkqO50xIbKZDvug", "kid":"i7MdiZKf+O9W3tJSZGtHEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="100" tvg-name="" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://telegra.ph/file/c4e3bdfd054ed34828705.png",HEROES CH100
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5114/default.mpd
+#EXTM3U8 x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="V2.7 - 13/5/2024 | Update: Fixed AstroGO channels " vod_library="https://mantop.worst.workers.dev/index.html"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -19,40 +17,3 @@ Ria CH104
 https://noisy-butterfly-a39d.lu-
 mau-apaan-sih-
 waduhhh.workers.dev/1004/index.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-{ "keys":[ { "kty":"oct",
-"k":"N2sAl5bkrVDqj2jXlmdmkg",
-"kid":"P3Jv1cu/WURDek2/q0MbEA" } ],
-"type":"temporary" } 
-#EXTINF:-1 tvg-
-id="AstroRia" tvg-name="Astro Ria HD"
-group-title="AstroGO" group-
-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png"
-tvg-
-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/
-Ria B CH104
-https://dost.worst.workers.dev/296/index.mpd
-#KODIPROP:inputstreamaddon-inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0
-(Windows NT 10.0; Win64; x64)
-AppleWebKit/537.36 (KHTML, like Gecko)
-Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-{"keys":[{"kty":"oct",
-"k":"hBLORP++NQzy70BR+RUUKA",
-"kid":"C2Uyau3j7b6B5vtAMX1TEA" } ],
-"type":"temporary" } 
-#EXTINF:-1 tvg-
-id="AstroPrima" tvg-name="Astro Prima
-HD" group-title="AstroGO" group-
-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png"
-tvg-logo="https://iili.io/1Nft6B.png",Astro
-Prima HD CH105
-https://staging-linearjitp-
-playback.astro.com.my/dash-
-wv/linear/1000/default.mpd
