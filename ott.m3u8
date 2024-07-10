@@ -1,4 +1,4 @@
-#EXTM3U8 x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="V2.7 - 13/5/2024 | Update: Fixed AstroGO channels " vod_library="https://mantop.worst.workers.dev/index.html"
+#EXTM3U8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
