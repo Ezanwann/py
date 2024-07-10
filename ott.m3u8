@@ -8,7 +8,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5114/default.mpd
 {"keys":[{"kty":"oct",
 "k":"N2sAl5bkrVDqj2jXlmdmkg",
 "kid":"P3Jv1cu/WURDek2/q0MbEA" } ],
-"type":"temporary" } #EXTINF:-1 tvg-
+"type":"temporary" } 
+#EXTINF:-1 tvg-
 id="AstroRia" tvg-name="Astro Ria HD"
 group-title="AstroGO" group-
 logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png"
@@ -25,7 +26,8 @@ waduhhh.workers.dev/1004/index.mpd
 { "keys":[ { "kty":"oct",
 "k":"N2sAl5bkrVDqj2jXlmdmkg",
 "kid":"P3Jv1cu/WURDek2/q0MbEA" } ],
-"type":"temporary" } #EXTINF:-1 tvg-
+"type":"temporary" } 
+#EXTINF:-1 tvg-
 id="AstroRia" tvg-name="Astro Ria HD"
 group-title="AstroGO" group-
 logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png"
@@ -44,7 +46,8 @@ Chrome/126.0.0.0 Safari/537.36"}
 {"keys":[{"kty":"oct",
 "k":"hBLORP++NQzy70BR+RUUKA",
 "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ],
-"type":"temporary" } #EXTINF:-1 tvg-
+"type":"temporary" } 
+#EXTINF:-1 tvg-
 id="AstroPrima" tvg-name="Astro Prima
 HD" group-title="AstroGO" group-
 logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png"
